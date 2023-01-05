@@ -1,1 +1,1 @@
-learn git right for a long and happy life
+Git is my favorite tool in Linux
